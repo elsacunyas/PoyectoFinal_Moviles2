@@ -1,0 +1,85 @@
+{
+  "artists": [
+    {
+      "name": "Pablo Picasso",
+      "bio": "Pablo Ruiz y Picasso (25 de octubre de 1881 – 8 de abril de 1973), también conocido como Pablo Picasso, fue un pintor, escultor, grabador, ceramista, diseñador de escenarios, poeta y dramaturgo español que pasó la mayor parte de su vida adulta en Francia.",
+      "image": "0",
+      "works": [
+        {
+          "title": "Guernica",
+          "image": "Picasso1",
+          "info": "Guernica es una pintura al óleo de gran formato en lienzo, creada por el artista español Pablo Picasso en junio de 1937. La pintura, que utiliza una paleta de grises, negro y blanco, es considerada por muchos críticos de arte como una de las obras más conmovedoras y poderosas contra la guerra. Con 3,49 metros de alto y 7,76 metros de ancho, el mural muestra el sufrimiento de personas, animales y edificios devastados por la violencia y el caos."
+        },
+        {
+          "title": "La Mujer que Llora",
+          "image": "Picasso2",
+          "info": "La Mujer que Llora (60 х 49 cm) es un óleo sobre lienzo pintado por Pablo Picasso en Francia en 1937. Picasso estaba intrigado con este tema y lo abordó en varias ocasiones ese año. Esta pintura fue la más elaborada de la serie. Desde 1987 forma parte de la colección de la Tate en Londres, y se exhibe en la Tate Modern."
+        },
+        {
+          "title": "El Jugador de Cartas",
+          "image": "Picasso3",
+          "info": "El Jugador de Cartas (1913-1914) es un óleo sobre lienzo de 108 x 89.5 cm, que se encuentra en el Museo de Arte Moderno de Nueva York."
+        },
+        {
+          "title": "Durmiendo",
+          "image": "Picasso4",
+          "info": "Durmiendo, pintado en 1932, representa a la amante de Picasso, Marie-Thérèse. Ella descansa entre dos bloques de colores opuestos, rojo y verde, que acentúan la tranquilidad de su sueño. Los contornos negros alrededor de sus manos y perfil son características distintivas de esta serie."
+        }
+      ]
+    },
+    {
+      "name": "Vincent van Gogh",
+      "bio": "Vincent Willem van Gogh (30 de marzo de 1853 – 29 de julio de 1890) fue un pintor postimpresionista neerlandés cuya obra influyó profundamente en el arte del siglo XX.",
+      "image": "1",
+      "works": [
+        {
+          "title": "La Noche Estrellada",
+          "image": "VanGogh1",
+          "info": "La Noche Estrellada es un óleo sobre lienzo pintado por Vincent van Gogh en junio de 1889. Representa la vista desde la ventana de su habitación en el asilo de Saint-Rémy-de-Provence antes del amanecer, con un pueblo idealizado añadido. La pintura forma parte de la colección permanente del Museo de Arte Moderno de Nueva York desde 1941 y es considerada una de las obras más reconocidas de la cultura occidental."
+        },
+        {
+          "title": "Los Girasoles",
+          "image": "VanGogh2",
+          "info": "Los Girasoles son el tema de dos series de naturalezas muertas pintadas por Vincent van Gogh. La primera serie, creada en París en 1887, muestra las flores en el suelo, mientras que la segunda, realizada un año después en Arlés, presenta ramos en jarrones. Ambas series están asociadas en la mente del artista con su amigo Paul Gauguin."
+        },
+        {
+          "title": "El Dormitorio en Arlés",
+          "image": "VanGogh3",
+          "info": "El Dormitorio en Arlés es el título de tres versiones similares de una pintura realizada por Vincent van Gogh. Las tres versiones se distinguen fácilmente por los cuadros en la pared derecha."
+        },
+        {
+          "title": "Los Lirios",
+          "image": "VanGogh4",
+          "info": "Los Lirios es una de muchas pinturas de lirios realizadas por Vincent van Gogh mientras vivía en el asilo de Saint Paul-de-Mausole en Saint-Rémy-de-Provence. Fue pintada en el último año antes de su muerte en 1890."
+        }
+      ]
+    },
+    {
+      "name": "Frida Kahlo",
+      "bio": "Frida Kahlo de Rivera (6 de julio de 1907 – 13 de julio de 1954), nacida Magdalena Carmen Frieda Kahlo y Calderón, fue una pintora mexicana conocida por sus autorretratos.",
+      "image": "2",
+      "works": [
+        {
+          "title": "Raíces",
+          "image": "Frida1",
+          "info": "En 2006, la pintura Raíces de 1943 alcanzó un precio récord de 5,6 millones de dólares en una subasta, convirtiéndose en la obra latinoamericana más cara en ese momento."
+        },
+        {
+          "title": "Autorretrato con Collar de Espinas y Colibrí",
+          "image": "Frida2",
+          "info": "Autorretrato con Collar de Espinas y Colibrí (1940) muestra a Frida Kahlo con un vestido blanco, un mono en su hombro derecho y un gato en su hombro izquierdo. Lleva un collar de espinas que la hace sangrar y un colibrí muerto."
+        },
+        {
+          "title": "Autorretrato con el Pelo Corto",
+          "image": "Frida3",
+          "info": "Frida pintó este autorretrato después de cortarse el cabello tras su divorcio de Diego Rivera. Se retrató usando un traje masculino, posiblemente de Rivera, en lugar de los vestidos tradicionales mexicanos que solía usar."
+        },
+        {
+          "title": "Fruta de la Vida",
+          "image": "Frida4",
+          "info": "En sus últimos días, Frida pintó principalmente naturalezas muertas, a menudo frutas de su jardín o mercado local, arregladas en su mesa de noche. Solía politizar estas obras añadiendo banderas, inscripciones o una paloma de paz."
+        }
+      ]
+    }
+  ]
+}
